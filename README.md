@@ -1,4 +1,4 @@
-A VB program that simulates 4 kitchen timers. <br />
+A VB program that simulates a stove with 4 timers. <br />
 The user can select a timer to set a time. <br />
 Each timer counts down independently from other timers. <br />
 
